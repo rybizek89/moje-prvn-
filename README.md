@@ -18,8 +18,13 @@ Chceš pomoci?
 - Jsem nováček, ocení se nápady a trpělivost. 😊
 - Kontakt: github.com/rybizek89
 - 
-Co chci naučit
-základy GitHubu
-práci s repozitáři
-vytváření issues
-používání branches a pull requestů
+# Úvod
+
+Jsem na začátku učení GitHubu. Tento repozitář slouží jako cvičný prostor, kde si zkouším:
+- vytvářet a upravovat soubory přes web
+- vytvářet issues pro nápady
+- sledovat, co jsem si už vyzkoušela
+
+Poznámky:
+- Nezáleží na kódu — klidně sem vkládej texty, zápisky nebo nápady.
+- Postupně přidám víc věcí, jak se budu učit.
