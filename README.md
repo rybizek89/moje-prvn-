@@ -18,3 +18,8 @@ Chceš pomoci?
 - Jsem nováček, ocení se nápady a trpělivost. 😊
 - Kontakt: github.com/rybizek89
 - 
+Co chci naučit
+základy GitHubu
+práci s repozitáři
+vytváření issues
+používání branches a pull requestů
