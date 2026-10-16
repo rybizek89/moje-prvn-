@@ -16,4 +16,4 @@ Jak začít
 
 Chceš pomoci?
 - Jsem nováček, ocení se nápady a trpělivost. 😊
-- Kontakt: github.com/TVÉ_UŽIVATELSKÉ_JMENO
+- Kontakt: github.com/rybizek89
